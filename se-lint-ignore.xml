@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-7.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Matched text is as-is in print.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-41.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="local.css">
+		<ignore>
+			<code>c-009</code>
+			<reason>Matched style is an override of a core style.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
