@@ -6,6 +6,12 @@
 			<reason>Matched text is as-is in print.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-12.xhtml">
+		<ignore>
+			<code>t-008</code>
+			<reason>Matched text is as-is in print.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-41.xhtml">
 		<ignore>
 			<code>t-042</code>
