@@ -14,7 +14,7 @@
 	</file>
 	<file path="chapter-41.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-029</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
