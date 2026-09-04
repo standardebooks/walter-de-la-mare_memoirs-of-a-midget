@@ -31,12 +31,12 @@
 		<dc:title id="title">Memoirs of a Midget</dc:title>
 		<meta property="file-as" refines="#title">Memoirs of a Midget</meta>
 		<dc:subject id="subject-1">Psychological fiction</dc:subject>
-		<dc:subject id="subject-2">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-3">Bildungsromans</dc:subject>
-		<dc:subject id="subject-4">Circus performers -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Difference (Psychology) -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Short people -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Dwarfs -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Circus performers--Fiction</dc:subject>
+		<dc:subject id="subject-5">Difference (Psychology)--Fiction</dc:subject>
+		<dc:subject id="subject-6">Short people--Fiction</dc:subject>
+		<dc:subject id="subject-7">Dwarfs--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85108438</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
